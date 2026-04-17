@@ -1,4 +1,4 @@
-## Hi there I'm Sumit 👋
+## Hi there I'm Sumit 
 
 
 <h4 align="center">A passionate B.Tech student from India interested in web development and graphic design, focused on building modern websites and creative digital experiences. I enjoy developing real-world systems that are secure, scalable, and built for practical use. Currently working as a UI Developer at Flick and helping businesses build their online presence and grow.</h4>
