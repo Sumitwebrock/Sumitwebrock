@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 A passionate B.Tech student from India with a strong interest in web development and graphic design. I focus on building modern, user-friendly websites and creative digital experiences.<br>I enjoy developing real-world systems that are secure, scalable, and practical. Currently working as a UI Developer at Flick, helping businesses build their online presence and grow.
 
 
